@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>222822058756-0oqec2rn5gqi6dfl3630rih4uv5jgfsm.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.222822058756-0oqec2rn5gqi6dfl3630rih4uv5jgfsm</string>
+	<key>API_KEY</key>
+	<string>AIzaSyD8o8dGsqKWfABTKBV7SMqcX9-Tyj-OeVc</string>
+	<key>GCM_SENDER_ID</key>
+	<string>222822058756</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.example.wheelo</string>
+	<key>PROJECT_ID</key>
+	<string>wheelo-2b453</string>
+	<key>STORAGE_BUCKET</key>
+	<string>wheelo-2b453.firebasestorage.app</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:222822058756:ios:d98a6378d024e9b1b65e51</string>
+</dict>
+</plist>

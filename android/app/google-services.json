@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "222822058756",
+    "project_id": "wheelo-2b453",
+    "storage_bucket": "wheelo-2b453.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:222822058756:android:15939ed49e64c75cb65e51",
+        "android_client_info": {
+          "package_name": "com.example.wheelo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "222822058756-dn51ocs1gkmk19b6oo5h8ejrl9c46jdp.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.wheelo",
+            "certificate_hash": "f7d69ec27ecbb925636361f88d9904f56a64a5d6"
+          }
+        },
+        {
+          "client_id": "222822058756-ttu9me4ngu5minonepejt1gqhf49hkfl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDmY4jyp0ZpZqPMq33hpa8_bNoqMxAJt34"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "222822058756-ttu9me4ngu5minonepejt1gqhf49hkfl.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "222822058756-0oqec2rn5gqi6dfl3630rih4uv5jgfsm.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.wheelo"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
